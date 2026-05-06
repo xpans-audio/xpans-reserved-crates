@@ -1,0 +1,12 @@
+[package]
+name = "xpans_surround"
+version = "0.0.1"
+edition = "2024"
+description = "Reserved for xpans"
+homepage = "https://xpans.audio"
+readme = "README.md"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/xpans-audio/xpans-reserved-crates.git"
+authors = ["Ben Seigler"]
+
+[dependencies]
